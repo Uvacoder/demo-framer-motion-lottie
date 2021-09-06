@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/framer-menu-lottie/precache-manifest.bde23c463574f6bf8a678b643fdc4115.js"
+  "/framer-menu-lottie/precache-manifest.95dea701178d8f79f16b4dec9dc9fbcf.js"
 );
 
 workbox.clientsClaim();
