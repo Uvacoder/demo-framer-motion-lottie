@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "59d01621879ad81f9156",
+    "revision": "c05626fc5073256a93e7",
     "url": "/framer-menu-lottie/static/css/main.a3cdceb6.chunk.css"
   },
   {
-    "revision": "59d01621879ad81f9156",
-    "url": "/framer-menu-lottie/static/js/main.59d01621.chunk.js"
+    "revision": "c05626fc5073256a93e7",
+    "url": "/framer-menu-lottie/static/js/main.c05626fc.chunk.js"
   },
   {
     "revision": "bd27f14a15f6ec30469d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/framer-menu-lottie/static/js/runtime~main.4f7bd8b9.js"
   },
   {
-    "revision": "d10958e85b5aeb1109a955060b3c3a0c",
+    "revision": "b2845152d0ab86ee9fc22e376e0eaa9d",
     "url": "/framer-menu-lottie/index.html"
   }
 ];
